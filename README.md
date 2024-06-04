@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and React**
 
-- 🤝 I’m looking for help with [Internships](In web development and software development)
+- 🤝 I’m looking for help with Internships in web development and software development.
 
 - 💬 Ask me about **HTML , CSS , JAVASCRIPT , TAILWIND CSS , C++ , DATA STRUCTURES**
 
